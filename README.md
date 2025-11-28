@@ -1,4 +1,4 @@
-The advantages of PAM 4 over NRZ are as follows ¹ ² ³ ⁴:
+# The advantages of PAM 4 over NRZ are as follows :
 
 - Higher Throughput: PAM4 has a throughput of 2 bits per Unit Interval (UI), whereas NRZ has a throughput of 1 bit per UI. This means that PAM4 can transmit more data in the same amount of time, making it more efficient for high-speed applications.
 - Increased Signal Efficiency: PAM4 uses four signal levels to represent 2 bits of logic information, whereas NRZ uses two signal levels to represent 1 bit of logic information. This means that PAM4 can transmit more data using the same amount of bandwidth.
